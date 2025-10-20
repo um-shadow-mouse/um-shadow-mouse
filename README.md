@@ -78,8 +78,8 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=um-shadow-mouse&icon=0&color=0" alt="Profile Visit Counter" />
-</p>
+</p> -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
