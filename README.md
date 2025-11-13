@@ -68,14 +68,14 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=um-shadow-mouse&theme=dark&show_icons=true&hide_border=false" alt="GitHub Stats" /><br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=um-shadow-mouse&theme=dark&hide_border=false" alt="GitHub Streak" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=um-shadow-mouse&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anim-michael-asante&theme=dark&show_icons=true&hide_border=false" alt="GitHub Stats" /><br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=anim-michael-asante&theme=dark&hide_border=false" alt="GitHub Streak" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anim-michael-asante&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=um-shadow-mouse&theme=algolia&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anim-michael-asante&theme=algolia&margin-w=15" alt="GitHub Trophies" />
 </p>
